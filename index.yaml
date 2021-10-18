@@ -42,7 +42,7 @@ entries:
     digest: cd33700356fcb9f36a0fe5b8caeed60da529b8721294914652e1cf6fd777f3c7
     home: https://posthog.com
     icon: https://camo.githubusercontent.com/11f72f57f33d7d34807bafc1314844f7a91bcdea/68747470733a2f2f706f7374686f672d7374617469632d66696c65732e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f576562736974652d4173736574732f6769746875622d636f7665722e706e67
-    kubeVersion: '>=1.19.0'
+    kubeVersion: '>=1.19.0-0'
     maintainers:
     - email: marius@posthog.com
       name: mariusandra
@@ -56,10 +56,10 @@ entries:
       name: tiina
     name: posthog
     sources:
-    - https://github.com/PostHog/charts-clickhouse
+    - https://github.com/wirabdillah/charts-clickhouse
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.15.1/posthog-3.15.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.15.1/posthog-3.15.1.tgz
     version: 3.15.1
   - apiVersion: v2
     appVersion: 1.28.1
@@ -102,7 +102,7 @@ entries:
     digest: 85b6e9c1787f58a47f6362d465112d605b755192e39d370b88245e6e88338916
     home: https://posthog.com
     icon: https://camo.githubusercontent.com/11f72f57f33d7d34807bafc1314844f7a91bcdea/68747470733a2f2f706f7374686f672d7374617469632d66696c65732e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f576562736974652d4173736574732f6769746875622d636f7665722e706e67
-    kubeVersion: '>=1.19.0'
+    kubeVersion: '>=1.19.0-0'
     maintainers:
     - email: marius@posthog.com
       name: mariusandra
@@ -116,10 +116,10 @@ entries:
       name: tiina
     name: posthog
     sources:
-    - https://github.com/PostHog/charts-clickhouse
+    - https://github.com/wirabdillah/charts-clickhouse
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.15.0/posthog-3.15.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.15.0/posthog-3.15.0.tgz
     version: 3.15.0
   - apiVersion: v2
     appVersion: 1.28.1
@@ -175,7 +175,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.14.0/posthog-3.14.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.14.0/posthog-3.14.0.tgz
     version: 3.14.0
   - apiVersion: v2
     appVersion: 1.28.1
@@ -231,7 +231,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.13.3/posthog-3.13.3.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.13.3/posthog-3.13.3.tgz
     version: 3.13.3
   - apiVersion: v2
     appVersion: 1.28.1
@@ -287,7 +287,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.13.2/posthog-3.13.2.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.13.2/posthog-3.13.2.tgz
     version: 3.13.2
   - apiVersion: v2
     appVersion: 1.28.1
@@ -343,7 +343,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.13.1/posthog-3.13.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.13.1/posthog-3.13.1.tgz
     version: 3.13.1
   - apiVersion: v2
     appVersion: 1.28.1
@@ -399,7 +399,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.13.0/posthog-3.13.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.13.0/posthog-3.13.0.tgz
     version: 3.13.0
   - apiVersion: v2
     appVersion: 1.28.0
@@ -455,7 +455,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.12.0/posthog-3.12.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.12.0/posthog-3.12.0.tgz
     version: 3.12.0
   - apiVersion: v2
     appVersion: 1.28.0
@@ -511,7 +511,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.11.0/posthog-3.11.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.11.0/posthog-3.11.0.tgz
     version: 3.11.0
   - apiVersion: v2
     appVersion: 1.28.0
@@ -567,7 +567,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.10.1/posthog-3.10.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.10.1/posthog-3.10.1.tgz
     version: 3.10.1
   - apiVersion: v2
     appVersion: 1.28.0
@@ -623,7 +623,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.10.0/posthog-3.10.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.10.0/posthog-3.10.0.tgz
     version: 3.10.0
   - apiVersion: v2
     appVersion: 1.28.0
@@ -679,7 +679,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.9.1/posthog-3.9.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.9.1/posthog-3.9.1.tgz
     version: 3.9.1
   - apiVersion: v2
     appVersion: 1.28.0
@@ -735,7 +735,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.9.0/posthog-3.9.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.9.0/posthog-3.9.0.tgz
     version: 3.9.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -791,7 +791,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.8.0/posthog-3.8.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.8.0/posthog-3.8.0.tgz
     version: 3.8.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -847,7 +847,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.7.3/posthog-3.7.3.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.7.3/posthog-3.7.3.tgz
     version: 3.7.3
   - apiVersion: v2
     appVersion: 1.26.0
@@ -903,7 +903,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.7.2/posthog-3.7.2.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.7.2/posthog-3.7.2.tgz
     version: 3.7.2
   - apiVersion: v2
     appVersion: 1.26.0
@@ -959,7 +959,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.7.1/posthog-3.7.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.7.1/posthog-3.7.1.tgz
     version: 3.7.1
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1015,7 +1015,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.7.0/posthog-3.7.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.7.0/posthog-3.7.0.tgz
     version: 3.7.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1071,7 +1071,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.6.0/posthog-3.6.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.6.0/posthog-3.6.0.tgz
     version: 3.6.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1127,7 +1127,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.5.0/posthog-3.5.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.5.0/posthog-3.5.0.tgz
     version: 3.5.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1183,7 +1183,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.4.1/posthog-3.4.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.4.1/posthog-3.4.1.tgz
     version: 3.4.1
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1239,7 +1239,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.4.0/posthog-3.4.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.4.0/posthog-3.4.0.tgz
     version: 3.4.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1295,7 +1295,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.3.1/posthog-3.3.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.3.1/posthog-3.3.1.tgz
     version: 3.3.1
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1351,7 +1351,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.3.0/posthog-3.3.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.3.0/posthog-3.3.0.tgz
     version: 3.3.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1407,7 +1407,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.2.0/posthog-3.2.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.2.0/posthog-3.2.0.tgz
     version: 3.2.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1463,7 +1463,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.1.0/posthog-3.1.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.1.0/posthog-3.1.0.tgz
     version: 3.1.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1519,7 +1519,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.0.5/posthog-3.0.5.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.0.5/posthog-3.0.5.tgz
     version: 3.0.5
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1575,7 +1575,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.0.4/posthog-3.0.4.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.0.4/posthog-3.0.4.tgz
     version: 3.0.4
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1631,7 +1631,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.0.3/posthog-3.0.3.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.0.3/posthog-3.0.3.tgz
     version: 3.0.3
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1687,7 +1687,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.0.2/posthog-3.0.2.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.0.2/posthog-3.0.2.tgz
     version: 3.0.2
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1743,7 +1743,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.0.1/posthog-3.0.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.0.1/posthog-3.0.1.tgz
     version: 3.0.1
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1799,7 +1799,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-3.0.0/posthog-3.0.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-3.0.0/posthog-3.0.0.tgz
     version: 3.0.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1849,7 +1849,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-2.0.3/posthog-2.0.3.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-2.0.3/posthog-2.0.3.tgz
     version: 2.0.3
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1899,7 +1899,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-2.0.2/posthog-2.0.2.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-2.0.2/posthog-2.0.2.tgz
     version: 2.0.2
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1949,7 +1949,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-2.0.1/posthog-2.0.1.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-2.0.1/posthog-2.0.1.tgz
     version: 2.0.1
   - apiVersion: v2
     appVersion: 1.26.0
@@ -1999,7 +1999,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-2.0.0/posthog-2.0.0.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-2.0.0/posthog-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
     appVersion: 1.26.0
@@ -2049,7 +2049,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.37/posthog-1.4.37.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.37/posthog-1.4.37.tgz
     version: 1.4.37
   - apiVersion: v2
     appVersion: 1.26.0
@@ -2099,7 +2099,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.36/posthog-1.4.36.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.36/posthog-1.4.36.tgz
     version: 1.4.36
   - apiVersion: v2
     appVersion: 1.26.0
@@ -2149,7 +2149,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.35/posthog-1.4.35.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.35/posthog-1.4.35.tgz
     version: 1.4.35
   - apiVersion: v2
     appVersion: 1.26.0
@@ -2199,7 +2199,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.34/posthog-1.4.34.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.34/posthog-1.4.34.tgz
     version: 1.4.34
   - apiVersion: v2
     appVersion: 1.26.0
@@ -2249,7 +2249,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.33/posthog-1.4.33.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.33/posthog-1.4.33.tgz
     version: 1.4.33
   - apiVersion: v2
     appVersion: 1.26.0
@@ -2299,7 +2299,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.32/posthog-1.4.32.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.32/posthog-1.4.32.tgz
     version: 1.4.32
   - apiVersion: v2
     appVersion: 1.26.0
@@ -2349,7 +2349,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.31/posthog-1.4.31.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.31/posthog-1.4.31.tgz
     version: 1.4.31
   - apiVersion: v2
     appVersion: 1.26.0
@@ -2399,7 +2399,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.29/posthog-1.4.29.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.29/posthog-1.4.29.tgz
     version: 1.4.29
   - apiVersion: v2
     appVersion: 1.25.0
@@ -2449,7 +2449,7 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.28/posthog-1.4.28.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.28/posthog-1.4.28.tgz
     version: 1.4.28
   - apiVersion: v2
     appVersion: 1.25.0
@@ -2499,6 +2499,6 @@ entries:
     name: posthog
     type: application
     urls:
-    - https://github.com/PostHog/charts-clickhouse/releases/download/posthog-1.4.26/posthog-1.4.26.tgz
+    - https://github.com/wirabdillah/charts-clickhouse/releases/download/posthog-1.4.26/posthog-1.4.26.tgz
     version: 1.4.26
 generated: "2021-10-14T08:24:55.801030876Z"
